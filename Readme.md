@@ -2,9 +2,9 @@
 <h2>Made for fun</h2>
 <h3>Color Palette</h3>
 <ul>
-    <l1>#026670</li>
-    <l1>#9FEDD7</li>
-    <l1>#FEF9C7</li>
-    <l1>#FCE181</li>
-    <l1>#EDEAE5</li>
+    <l1>#95C2CC</li>
+    <l1>#478E9E</li>
+    <l1>#D4FFEF</li>
+    <l1>#FFDDDC</li>
+    <l1>#CC95AA</li>
 </ul>
